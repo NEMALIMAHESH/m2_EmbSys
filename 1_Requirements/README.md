@@ -14,11 +14,11 @@
    * No Threats
 * High Level Requirements:
   * |  ID  |      Description        |  Status |
-  * | ---- | ----------------------- |-------- |
+  * | ---- | ---- |---- |
   * | HR01 | Pulse Reading           | Future  |
   * | HR02 | OxyHeamoglobin Reading  | FUture  |
 * Low Level Requirements:
   * |  ID  |     Description    |  HR ID  |  Status  |
-  * | ---- | ------------------ | ------- | -------- |
+  * | ---- | ---- | ---- |---- |
   * | LR01 | Led Display Output |  HR 01  |  Future  |
   * | LR02 | Led Display Output |  HR 02  |  Future  |
