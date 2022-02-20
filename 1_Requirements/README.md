@@ -20,5 +20,5 @@
 * Low Level Requirements:
  * | ID |    Description   | HR ID | Status |
  * |----|------------------|-------|--------|
- * |LR01|LED Display Output| HR 01 | Future |
- * |LR02|LED Display Output| HR 02 | Future |
+ * |LR01|Led Display Output| HR 01 | Future |
+ * |LR02|Led Display Output| HR 02 | Future |
