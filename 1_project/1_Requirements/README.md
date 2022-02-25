@@ -11,7 +11,7 @@
     * Increase in huge growth allover the world.
   * Threats:
     * No Threats
-*5W,S and 1H:
+* 5W,S and 1H:
   * What: 
     * It is used to measure the temperature.
   * When: 
