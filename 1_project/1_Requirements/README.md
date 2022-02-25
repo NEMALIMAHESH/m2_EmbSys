@@ -1,5 +1,5 @@
 * Features
- * Used to absorb Oxygen Saturation.
+ * Used to calculate the temperature.
  * It tells about the effects of breathing interventions.
  * It alerts the low oxygen levels, particularly in new born babies.
  * Used in Ambulances,Hospitals,Home Care.
@@ -15,10 +15,9 @@
 * High Level Requirements:
    |  ID  |      Description        |  Status |
    | :---- | :----: |:---- |
-   | HR01 | Pulse Reading           | Future  |
-   | HR02 | OxyHeamoglobin Reading  | FUture  |
+   | HR01 | Temperature Reading     | Future  |
 * Low Level Requirements:
    |  ID  |     Description    |  HR ID  |  Status  |
    | ---- | ---- | ---- |---- |
    | LR01 | Led Display Output |  HR 01  |  Future  |
-   | LR02 | Led Display Output |  HR 02  |  Future  |
+   
