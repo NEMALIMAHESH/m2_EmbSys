@@ -1,4 +1,4 @@
-_* Features_
+* _Features_
   * Used to calculate the temperature.
   * Used in Ambulances,Hospitals,Home Care,Industries etc.
 * SWOT Analysis:
