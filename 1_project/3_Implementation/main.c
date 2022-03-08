@@ -1,3 +1,13 @@
+/**
+ * @file main.c
+ * @author Nemali Mahesh (you@domain.com)
+ * @brief 
+ * @version 0.1
+ * @date 2022-03-08
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #ifndef _AVR_ATmega32_
   #define _AVR_ATmega32_
   #endif
