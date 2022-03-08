@@ -11,3 +11,7 @@
   * It is analog sensor so it will give output as analog output.
 * ADC(Analog to Digital Converter):
   * It is used to Convert the signal from analog to digital and gives digital output.
+ # Circuit Design
+ ![Screenshot (274)](https://user-images.githubusercontent.com/98869615/157186458-de8687ba-1857-46a2-ada9-01031ec78956.png)
+
+ 
