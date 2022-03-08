@@ -1,3 +1,17 @@
+* Introduction:
+  * In this project we use Atmega32 microcontroller and Lm35 temperature sensor and 16*2 lcd display panel. This project is mainly used to measure and display temperature on lcd display panel.
+  * Lm35 has 3 pins
+   1)VCC 2) output 3) GND
+  * Lm35 receives analog signals as per environment and it sends signals to atmega 32 microcontroller
+  * In Atmega32 microcontroller it converts analog signal to digital signal by using ADC pins and it transmits signal to the lcd display panel to print the output temperature.
+* High Level Requirements:
+   |  ID  |      Description        |  Status |
+   | :---- | :----: |:---- |
+   | HR01 | Temperature Reading     | Future  |
+* Low Level Requirements:
+   |  ID  |     Description    |  HR ID  |  Status  |
+   | ---- | ---- | ---- |---- |
+   | LR01 | Led Display Output |  HR 01  |  Future  |
 * Features
   * Used to calculate the temperature.
   * Used in Ambulances,Hospitals,Home Care,Industries etc.
@@ -24,14 +38,6 @@
     * It is used to measure the different types of temperature like body temperature,Room temperature etc
   * How:
     * It is useful for measuring temperature during covid checking, fewer checking etc. We need to turn the machine on and keep in touch with body then it will measure and show how much the temperature is.
-* High Level Requirements:
-   |  ID  |      Description        |  Status |
-   | :---- | :----: |:---- |
-   | HR01 | Temperature Reading     | Future  |
-* Low Level Requirements:
-   |  ID  |     Description    |  HR ID  |  Status  |
-   | ---- | ---- | ---- |---- |
-   | LR01 | Led Display Output |  HR 01  |  Future  |
 * Applications:
   * It is used in digital clocks
   * It can be used in airconditioners to set the temperature as per the room tempertaure.
