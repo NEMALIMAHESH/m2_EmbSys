@@ -75,5 +75,4 @@ void send_a_string(char *string_of_characters)
     {
         send_a_character(*string_of_characters++);
     }
-    return 0;
 }
