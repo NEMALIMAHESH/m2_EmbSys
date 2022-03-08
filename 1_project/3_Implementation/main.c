@@ -1,3 +1,6 @@
+#ifndef _AVR_ATmega32_
+  #define _AVR_ATmega32_
+  #endif
 #include <avr/io.h>
 #define F_CPU 1000000
 #include <util/delay.h>
@@ -35,7 +38,7 @@ int main(void)
     while(1)
     {
         COUNTA = ADC/4;
-        send_a_string ("CIRCUIT DIGEST");
+        send_a_string ("NEMALI MAHESH");
         send_a_command(0x80 + 0x40 + 0);
         send_a_string ("Temp(C)=");
         send_a_command(0x80 + 0x40 + 8);
@@ -72,4 +75,5 @@ void send_a_string(char *string_of_characters)
     {
         send_a_character(*string_of_characters++);
     }
+    return 0;
 }
